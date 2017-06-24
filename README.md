@@ -8,6 +8,8 @@ I can see here some platforms to use.
 
 ### Serverless
 
+> TODO
+
 * API Gateway Lambda Proxy
 
 
